@@ -137,7 +137,7 @@ function mySuckingMethod {
 
 ### `eval`被限制在临时的本地作用域
 
-eval不再有权限直接修改其所在作用于，而只能影响自身创建的作用域。
+eval不再有权限直接修改其所在作用域，而只能影响自身创建的作用域。
 
 ```
 var hello = "world";
